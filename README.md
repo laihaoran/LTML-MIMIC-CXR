@@ -12,7 +12,7 @@ label of thoracic diseases from chest X-ray.
 
 <img src='./assets/method.png' width=800>
 
-Please download extra files from Google Drive: https://drive.google.com/drive/folders/18Ld-O2n5Hry5h0NNiHUcOfu8UUWcWy04?usp=share_link.
+Please download extra files from Google Drive: (We will public in future for secrecy).
 
 Please download MIMIC-CXR dataset from https://physionet.org/content/mimic-cxr/2.0.0/.
 
@@ -23,6 +23,7 @@ The information of LTML-MIMIC-CXR is saved in `./data/mimicall/LTML_MIMIC_CXR_la
 
 The `./appendix` contain the split of LTML-MIMIC-CXR in this repo.
 
+```
 appendix
   |--mimic
       |--class_freq.pkl
@@ -33,10 +34,7 @@ appendix
       |--val.pkl
       |--test.txt
       |--test.pkl
-
-
-
-
+```
 
 ### Training
 #### Traing ANR_LLA
