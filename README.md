@@ -12,7 +12,7 @@ label of thoracic diseases from chest X-ray.
 
 <img src='./assets/method.png' width=800>
 
-Please download extra files for Google Drive 
+Please download extra files from Google Drive: (https://drive.google.com/drive/folders/18Ld-O2n5Hry5h0NNiHUcOfu8UUWcWy04?usp=share_link)
 
 
 ## Quick start
