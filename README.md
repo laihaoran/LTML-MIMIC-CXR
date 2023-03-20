@@ -19,7 +19,7 @@ Please download MIMIC-CXR dataset from https://physionet.org/content/mimic-cxr/2
 ## Quick start
 
 ### Use our dataset
-The information of LTML-MIMIC-CXR is saved in `LTML_MIMIC_CXR_label_.csv`. The path of jpg images has been listed in `LTML_MIMIC_CXR_label_.csv`, which can be saved in `./data/mimicall/mimic`.
+The information of LTML-MIMIC-CXR is saved in `./data/mimicall/LTML_MIMIC_CXR_label_.csv`. The path of jpg images has been listed in `LTML_MIMIC_CXR_label_.csv`, which can be saved in `./data/mimicall/mimic`.
 
 The `./appendix` contain the split of LTML-MIMIC-CXR in this repo.
 
