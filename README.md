@@ -12,10 +12,10 @@ label of thoracic diseases from chest X-ray.
 
 <img src='./assets/method.png' width=800>
 
+Please download extra files for Google Drive 
+
 ```
 ## Quick start
-
-Please download extra files for Google Drive 
 
 ### Use our dataset
 The information of LTML-MIMIC-CXR is saved in `LTML_MIMIC_CXR_label_.csv`. The path of jpg images has been listed in `LTML_MIMIC_CXR_label_.csv`, which can be saved in `./data/mimicall/mimic`.
