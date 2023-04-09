@@ -12,7 +12,8 @@ label of thoracic diseases from chest X-ray.
 
 <img src='./assets/method.png' width=800>
 
-Please download extra files from Google Drive: (We will public in future for secrecy).
+Please download extra files from Google Drive: (We will public in future for secrecy) or in BaiduYun: 链接：https://pan.baidu.com/s/1wbCZwOpR7kvL9LN1b4A8xQ?pwd=2023 
+提取码：2023.
 
 Please download MIMIC-CXR dataset from https://physionet.org/content/mimic-cxr/2.0.0/.
 
